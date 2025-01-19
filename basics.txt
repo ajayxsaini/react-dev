@@ -3,4 +3,4 @@ createRoot, creates a tree like structure of the DOM and then compares it with t
 it in the DOM.
 Browser basically remove the entire DOM and then then repaints the entire page with the updated DOM, that is known as reloading.
 
-React fibre: 
+React fibre: pause, abort, reuse the work 
