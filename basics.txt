@@ -1,0 +1,6 @@
+Virtual DOM: What does create root does?
+createRoot, creates a tree like structure of the DOM and then compares it with the real DOM and if there are any differences, then it updates 
+it in the DOM.
+Browser basically remove the entire DOM and then then repaints the entire page with the updated DOM, that is known as reloading.
+
+React fibre: 
